@@ -4,7 +4,8 @@
 
 ## Ideas
 
-* [Untitled](ideas/untitled.md)
+* [Observer-spy](ideas/observer-spy.md)
+* [Where to initialize selectors?](ideas/untitled.md)
 
 ## In-Progress
 
