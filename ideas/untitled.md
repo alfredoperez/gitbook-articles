@@ -1,2 +1,2 @@
-# Where to initialize selectors?
+# Angular Library with NX and storybook
 

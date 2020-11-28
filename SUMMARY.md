@@ -5,7 +5,7 @@
 ## Ideas
 
 * [Observer-spy](ideas/observer-spy.md)
-* [Where to initialize selectors?](ideas/untitled.md)
+* [Angular Library with NX and storybook](ideas/untitled.md)
 
 ## In-Progress
 
