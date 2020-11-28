@@ -4,8 +4,8 @@
 
 ## Ideas
 
-* [Observer-spy](ideas/observer-spy.md)
 * [Angular Library with NX and storybook](ideas/untitled.md)
+* [Behavior driven and stae machines in  Ngrx](ideas/behavior-driven-and-stae-machines-in-ngrx.md)
 
 ## In-Progress
 
@@ -13,5 +13,6 @@
 
 ## Done
 
+* [Observer-spy](done/observer-spy.md)
 * [Untitled](done/untitled.md)
 
